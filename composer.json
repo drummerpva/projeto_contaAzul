@@ -1,6 +1,6 @@
 {
     "require": {
-        "mpdf/mpdf": "^7.0",
+        "mpdf/mpdf": "^8.1",
         "nnnick/chartjs": "^2.7",
         "nfephp-org/sped-nfe": "^5.0"
     }
